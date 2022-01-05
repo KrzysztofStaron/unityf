@@ -1,0 +1,16 @@
+mkdir scripts
+mkdir animations
+mkdir other
+cd other
+mkdir materials
+mkdir shaders
+mkdir fonts
+mkdir packages
+cd -
+mkdir img
+mkdir prefubs
+cd prefubs
+mkdir tiles
+cd -
+mkdir sounds
+echo Folders created
